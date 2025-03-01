@@ -3,7 +3,7 @@
 ###
 
 
-<h4 align="left">A full-stack developer skilled in JavaScript, HTML, CSS, Python, PHP, and Node.js . I create scalable, user-friendly applications and strive to deliver high-quality, efficient solutions.</h4>
+<h4 align="left">A full-stack developer skilled in JavaScript, HTML, CSS, Python, PHP, and Node.js . I create scalable, user-friendly applications and strive to deliver high-quality, efficient solutions. PS : Just started with Github and will be committing consistently henceforth.</h4>
 
 ###
 
